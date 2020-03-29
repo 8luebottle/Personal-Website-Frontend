@@ -1,0 +1,44 @@
+# cache
+.eslintcache
+.npm
+
+# config & env
+*.config
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# editors
+*.swp
+.idea/
+.vscode/
+.DS_Store
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# typescript declaration files
+typings/
+
+# production
+/build
+
+# logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
